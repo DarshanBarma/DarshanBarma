@@ -25,7 +25,7 @@ S
 
 ## 📊 GitHub Stats
 
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanbarma&show_icons=true&theme=tokyonight)
+<!-- ![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanbarma&show_icons=true&theme=tokyonight) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbarma&layout=compact&theme=tokyonight)
 
@@ -33,9 +33,9 @@ S
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=darshanbarma&theme=onedark&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=darshanbarma&theme=onedark&row=1&column=6) -->
 
 ---
 
